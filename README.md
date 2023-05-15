@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adrianlucax
+- 👀 I’m interested in games, programming, automation and websites
+- 🌱 I’m currently learning python and HTML
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me Adrianlx.contato@gmail.com or Kendricklamar@dnmx.org
