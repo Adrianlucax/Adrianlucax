@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Adrianlucax
-- 👀 I’m interested in games, programming, automation and websites
-- 🌱 I’m currently learning python and HTML
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me Adrianlx.contato@gmail.com or Kendricklamar@dnmx.org
+O Chatbot foi criado para melhor experiência do cliente com a franquia VamoAI para fácil e rápido atendimento, e em um futuro próximo, coletas de dados, para facilitar a melhor demanda da franquia.  
